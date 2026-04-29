@@ -16,8 +16,8 @@ using multi-feature inputs from real market data (NASDAQ & Vietnam stock exchang
 - Techniques: MinMaxScaler normalization, sliding window (30-day), train/val/test split
 
 ## Project Structure
-├── 220226_project_notebook.ipynb   # Main analysis notebook
-└── README.md
+- 220226_project_notebook.ipynb   # Main analysis notebook
+- README.md
 
 ## How to Run
 1. Open notebook in Google Colab or Jupyter
